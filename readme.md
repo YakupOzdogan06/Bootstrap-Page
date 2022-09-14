@@ -1,3 +1,4 @@
 # Bootstrap Project
 
-https://bootstrapcw.netlify.app/
+
+https://yakupozdogan06.github.io/Bootstrap-Page/
